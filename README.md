@@ -1,5 +1,6 @@
 # DecisionTreeAlgorithm
 
+## Author : Utkarsh Pratap Singh
 
 ### Problem Statement 
 
